@@ -1,4 +1,4 @@
-# Hi, I'm Arian Poormahdavi Parashkohi 👋
+# Hi, I'm Arian Poormahdaviparashkohi 👋
 
 📍 Bamberg, Germany · 🎓 B.Sc. Applied Computer Science (Angewandte Informatik) at Otto-Friedrich-Universität Bamberg · 🗣️ Persian, German, English
 
