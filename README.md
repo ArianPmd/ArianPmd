@@ -1,6 +1,6 @@
 # Hi, I'm Arian Poormahdavi Parashkohi 👋
 
-📍 Bamberg, Germany · 🎓 B.Sc. Applied Computer Science (Angewandte Informatik)
+📍 Bamberg, Germany · 🎓 B.Sc. Applied Computer Science (Angewandte Informatik) at Otto-Friedrich-Universität Bamberg · 🗣️ Persian, German, English
 
 I build full-stack web apps with TypeScript — from the database to a polished, mobile-first interface.
 
