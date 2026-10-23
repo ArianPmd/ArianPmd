@@ -10,6 +10,8 @@ I build full-stack web apps with TypeScript — from the database to a polished,
 
 A habit tracker that feels like a game. Build routines, earn XP, level up, keep your streak alive, and look after a pixel pet that grows with you.
 
+<p align="center"><img src="assets/habit4u.gif" alt="Habit4U demo: completing a routine, then feeding, washing and dressing the pet" width="300"></p>
+
 - **Routines & to-dos:** daily, weekly and monthly repeats, partial progress, reminders with *Mark Done* / *Snooze* right from the notification
 - **Game layer:** XP, levels, streaks with freezes, unlockable pet food and outfits
 - **Pet care:** feed, wash and play with your pet, which reacts and gets muddy when neglected
