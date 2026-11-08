@@ -23,6 +23,20 @@ A habit tracker that feels like a game. Build routines, earn XP, level up, keep 
 
 🔗 [habit4u.vercel.app](https://habit4u.vercel.app). Currently in private beta, so access is by invite.
 
+## 📚 DWB: German vocabulary trainer
+
+A mobile-first app for learning German words, built for learners using the *Mensch!* textbooks (A1–C1) and exam lists (Goethe, TestDaF, ÖSD, telc), in English and Persian.
+
+<p align="center"><img src="assets/dwb.gif" alt="DWB demo: a flashcard, the der/die/das game, the word list and the weekly ranking" width="300"></p>
+
+- **Flashcards:** type the translation, review mistakes, save words, filter by level and theme
+- **der · die · das game:** pick the right article, with a streak counter
+- **6,000+ words** with plural, examples and pronunciation (built-in German voice)
+- **Friends & challenges:** weekly ranking and live quiz battles, with names kept private
+- **Installable app (PWA):** push notifications, works on iPhone and Android, light and dark mode, Persian right-to-left
+
+**Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Zustand · NestJS · Prisma · PostgreSQL · Web Push · Playwright · Jest
+
 ## 🛠️ Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
