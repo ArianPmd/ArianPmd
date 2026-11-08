@@ -37,6 +37,8 @@ A mobile-first app for learning German words, built for learners using the *Mens
 
 **Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Zustand · NestJS · Prisma · PostgreSQL · Web Push · Playwright · Jest
 
+🔗 [mydwb.vercel.app](https://mydwb.vercel.app). Currently in private beta, so access is by invite.
+
 ## 🛠️ Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
